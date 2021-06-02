@@ -29,4 +29,5 @@ const sortBySum =
         - String(b).split('').reduce((acc, x) => Number(acc) + Number(x))
     )
 
-console.log(sortBySum(input))
+
+// [ 11, 1111, 11111, 9, 99, 999 ]
